@@ -13,4 +13,4 @@
 ### _To Run_
 - Make sure to have python 3.0 and above.
 - clone the application.
-- Run Executor.exe from AZTBC_fixtures folder.
+- Run Executor.exe from AZTBC_fixtures folder or Open cmd for same location and use -> python Executor.py.
